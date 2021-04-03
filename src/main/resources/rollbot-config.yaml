@@ -1,0 +1,4 @@
+rollbot:
+  role: admin
+  permission: delete_user
+  secretKey: SECRETKEY
